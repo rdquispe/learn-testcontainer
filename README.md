@@ -1,4 +1,4 @@
-# learn-testcontainer
+# Testcontainers
 
 Official website: https://www.testcontainers.org/
 
